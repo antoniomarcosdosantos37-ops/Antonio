@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/0ygy14nq/20251017-152852.jpg" width="300" alt="NaufraBot V2" />
+  <img src="https://i.postimg.cc/6pFxVK83/1727961553510.jpg" width="300" alt="NaufraBot V2" />
 </p>
 
 
