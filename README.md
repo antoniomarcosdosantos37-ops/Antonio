@@ -29,7 +29,7 @@ cd /sdcard && git clone https://github.com/antoniomarcosdosantos37-ops/Antonio
 ```
 
 ```bash
-cd Antonio-marcos
+cd Antonio
 ```
 
 ```bash
