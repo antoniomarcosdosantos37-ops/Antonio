@@ -7,18 +7,6 @@
 </p>
 
 
----
-
-## 🧠 **¿Qué es NaufraBot V2?**
-
-🔥 **NaufraBot V2** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
-
-- 🚀 Compatible con la última versión de **Baileys**
-- 💬 Juegos RPG integrados
-- 🧩 100% perzonalizable
-- 📦 Descargas (videos, música, stickers)
-- 🤖 Funciones con IA integradas
-- 🛡️ Protección AntiLink y AntiSpam para tu grupo 
 
 ---
 
@@ -37,11 +25,11 @@ termux-setup-storage
 ```
 
 ```bash
-cd /sdcard && git clone https://github.com/antoniomarcosdosantos37-ops/Antonio/blob/main/README.md
+cd /sdcard && git clone https://github.com/antoniomarcosdosantos37-ops/Antonio
 ```
 
 ```bash
-cd Naufrabot-base
+cd Antonio-marcos
 ```
 
 ```bash
