@@ -38,9 +38,9 @@ yarn add android-fastboot
 
 ## Examples
 
-A basic demo of fastboot.js can be found [here](https://antoniomarcosdosantos37-ops.github.io/Antonio/Demo/). The source code is included [in this repository](https://github.com/kdrag0n/fastboot.js/tree/master/demo).
+A basic demo of fastboot.js can be found [here](https://antoniomarcosdosantos37-ops.github.io/Antonio/Demo/). The source code is included [in this repository](https://github.com/antoniomarcosdosantos37-ops/fastboot.js/tree/master/demo).
 
-There is also a [user-friendly ROM installer](https://github.com/kdrag0n/android-webinstall) available, with a [live ProtonAOSP instance](https://protonaosp.kdrag0n.dev/install/web/?utm_source=github&utm_campaign=fastboot.js) that can be used to flash devices officially supported by ProtonAOSP.
+There is also a [user-friendly ROM installer](https://github.com/antoniomarcosdosantos37-ops/android-webinstall) available, with a [live ProtonAOSP instance](https://protonaosp.antoniomarcosdosantos37-ops.dev/install/web/?utm_source=github&utm_campaign=fastboot.js) that can be used to flash devices officially supported by ProtonAOSP.
 
 ## Documentation
 
